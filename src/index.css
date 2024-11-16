@@ -1,8 +1,12 @@
+html,
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  padding: 0;
+  height: 100%;
+  width: 100%;
 }
 
 * {
   box-sizing: border-box;
 }
+
