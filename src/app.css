@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4; /* Light gray background */
+}
+
+button {
+  cursor: pointer;
+}
+
+.bg-gradient-to-r {
+  background: linear-gradient(to right, #2563eb, #1e3a8a); /* Blue gradient */
+}
+
+.text-blue-600 {
+  color: #2563eb;
+}
+
+.text-blue-800 {
+  color: #1e3a8a;
+}
+
+.hover\:bg-blue-50:hover {
+  background-color: #e0f2fe; /* Light blue hover effect */
+}
+
+.bg-blue-900 {
+  background-color: #1e3a8a;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-gray-600 {
+  color: #718096;
+}
